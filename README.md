@@ -21,6 +21,9 @@ Please follow the rules below:
 |💸|[FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY25)| macOS App for Recording Face In Videos | 40% OFF with code **BLACKFRIDAY25**|
 |💸|[ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY25)| macOS app for Effortless Batch Resizing and Editing of Images | 40% OFF with code **BLACKFRIDAY25**|
 |💸|[Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY25)| MacOS app that makes redacting text in images easier | 40% OFF with code **BLACKFRIDAY25**|
+|💸|[MenubarX](https://MenubarX.app)| Powful macOS menu bar browser that helps you to add any web pages to the menu bar just like Native Apps. | App Store **28% OFF** <br> **or** Code **BF2025** |
+|💸|[DockX](https://DockX.app)| Magic app that allows you to display any content in the Dock and Menu bar. | App Store **25% OFF** <br> **or** Code **BF2025** |
+
 ---
 
 # Special Request 
